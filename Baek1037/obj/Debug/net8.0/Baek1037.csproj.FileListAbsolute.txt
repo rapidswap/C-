@@ -1,0 +1,15 @@
+C:\Users\net\Desktop\sub\C-\Baek1037\bin\Debug\net8.0\Baek1037.exe
+C:\Users\net\Desktop\sub\C-\Baek1037\bin\Debug\net8.0\Baek1037.deps.json
+C:\Users\net\Desktop\sub\C-\Baek1037\bin\Debug\net8.0\Baek1037.runtimeconfig.json
+C:\Users\net\Desktop\sub\C-\Baek1037\bin\Debug\net8.0\Baek1037.dll
+C:\Users\net\Desktop\sub\C-\Baek1037\bin\Debug\net8.0\Baek1037.pdb
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.AssemblyInfoInputs.cache
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.AssemblyInfo.cs
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.csproj.CoreCompileInputs.cache
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.sourcelink.json
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.dll
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\refint\Baek1037.dll
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.pdb
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\Baek1037.genruntimeconfig.cache
+C:\Users\net\Desktop\sub\C-\Baek1037\obj\Debug\net8.0\ref\Baek1037.dll

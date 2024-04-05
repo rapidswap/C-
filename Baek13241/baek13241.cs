@@ -9,6 +9,7 @@ namespace baek13241
 {
     class baek13241
     {
+        
         static void Main(string[] args)
         {
             string input=Console.ReadLine();

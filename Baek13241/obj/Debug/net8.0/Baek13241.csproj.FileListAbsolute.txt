@@ -1,0 +1,15 @@
+C:\Users\net\Desktop\sub\C-\Baek13241\bin\Debug\net8.0\Baek13241.exe
+C:\Users\net\Desktop\sub\C-\Baek13241\bin\Debug\net8.0\Baek13241.deps.json
+C:\Users\net\Desktop\sub\C-\Baek13241\bin\Debug\net8.0\Baek13241.runtimeconfig.json
+C:\Users\net\Desktop\sub\C-\Baek13241\bin\Debug\net8.0\Baek13241.dll
+C:\Users\net\Desktop\sub\C-\Baek13241\bin\Debug\net8.0\Baek13241.pdb
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.AssemblyInfoInputs.cache
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.AssemblyInfo.cs
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.csproj.CoreCompileInputs.cache
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.sourcelink.json
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.dll
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\refint\Baek13241.dll
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.pdb
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\Baek13241.genruntimeconfig.cache
+C:\Users\net\Desktop\sub\C-\Baek13241\obj\Debug\net8.0\ref\Baek13241.dll
